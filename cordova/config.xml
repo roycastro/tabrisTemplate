@@ -13,7 +13,10 @@
     <plugin name="cordova-plugin-actionsheet" spec="^2.2.2" />
     <plugin spec="https://github.com/scottdermott/cordova-plugin-discovery.git" source="git" />
     <plugin spec="https://github.com/becvert/cordova-plugin-websocket-server.git" source="git" />
-    
+    <plugin spec="https://github.com/jefflinwood/twilio-voice-phonegap-plugin.git" source="git" />
+    <plugin spec="https://github.com/katzer/cordova-plugin-background-mode.git" source="git" />
+    <plugin spec="https://github.com/litehelpers/Cordova-sqlite-storage.git" source="git" />
+    <plugin spec="https://github.com/litehelpers/Cordova-sqlite-storage.git" source="git" />
 
     <platform name="android">
         <icon src="res/android/mipmap-ldpi/ic_launcher.png" density="ldpi" />

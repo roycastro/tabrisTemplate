@@ -12,6 +12,7 @@
     <plugin name="cordova-plugin-x-socialsharing" spec="^5.1.1" />
     <plugin name="cordova-plugin-actionsheet" spec="^2.2.2" />
     <plugin spec="https://github.com/scottdermott/cordova-plugin-discovery.git" source="git" />
+    <plugin spec="https://github.com/becvert/cordova-plugin-websocket-server.git" source="git" />
     
 
     <platform name="android">

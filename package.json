@@ -1,6 +1,6 @@
 {
-  "title": "Tabris.js Template App",
-  "description": "7 apps in 1 with examples for multiple use cases.",
+  "title": "Testing App",
+  "description": "Simple Testing App",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1",

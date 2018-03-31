@@ -15,7 +15,7 @@
     <plugin spec="https://github.com/becvert/cordova-plugin-websocket-server.git" source="git" />
     <plugin spec="https://github.com/jefflinwood/twilio-voice-phonegap-plugin.git" source="git" />
     <plugin spec="https://github.com/katzer/cordova-plugin-background-mode.git" source="git" />
-    <plugin spec="https://github.com/litehelpers/Cordova-sqlite-storage.git" source="git" />
+    <plugin name="cordova-sqlite-storage" spec="^2.0.4" />
     <plugin spec="https://github.com/becvert/cordova-plugin-zeroconf.git" source="git" />
 
     <platform name="android">
